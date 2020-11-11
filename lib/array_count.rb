@@ -7,5 +7,5 @@ end
 
 def count_empty_strings(array)
   array = [ "", "Hello", 4, [], "", "" ]
-  count = 0
+  count = 1
 end 
